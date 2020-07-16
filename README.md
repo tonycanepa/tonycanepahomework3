@@ -1,2 +1,3 @@
 # tonycanepahomework3
 Grocery Stores in Chicago Neighborhoods
+Updated README to include my CSS and HTML Files for Homework 3. Webpage with some introduction and a web map showing where grocery stores in Chicago in comparison to neighborhoods and the number of households in each of them. 
