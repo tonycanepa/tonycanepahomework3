@@ -3,13 +3,19 @@ body {background-color: coral;
 
 .introduction { text-align: center;
 background-color: white;
-font-family: times, serif;
+height: : 300px;
+width:500px;
+margin: auto;
+font-family: times, sans-serif;
 font-size: 16pt;
  }
 
  .webmapintro {
 background-color: white;
-font-family: times , serif;
+height: : 300px;
+width:500px;
+margin: auto;
+font-family: times, sans-serif;
 font-style: italic;
 font-size: 12pt;
 }
