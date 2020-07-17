@@ -6,7 +6,8 @@ background-color: white;
 height: : 300px;
 width:500px;
 margin: auto;
-font-family: Verdana, Geneva, sans-serif;
+font-family: Geneva, sans-serif;
+ font: Verdana;
 font-size: 16pt;
  }
 
@@ -15,7 +16,8 @@ background-color: white;
 height: : 300px;
 width:500px;
 margin: auto;
-font-family: Verdana, Geneva, sans-serif;
+font-family: Geneva, sans-serif;
+  font: Verdana;
 font-style: italic;
 font-size: 12pt;
 }
