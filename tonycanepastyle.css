@@ -7,8 +7,8 @@ height: : 300px;
 width:500px;
 margin: auto;
 font-family: Geneva, sans-serif;
- font: Verdana;
-font-size: 16pt;
+font: Verdana
+font-size: 14pt;
  }
 
  .webmapintro {
@@ -17,9 +17,9 @@ height: : 300px;
 width:500px;
 margin: auto;
 font-family: Geneva, sans-serif;
-  font: Verdana;
+font: Verdana
 font-style: italic;
-font-size: 12pt;
+font-size: 10pt;
 }
 
 
